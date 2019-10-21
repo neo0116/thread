@@ -26,6 +26,7 @@ public class App{
         Request request=new Request();
         request.setName("Mic");
         requestProcessor.process(request);
+        System.out.println("1212");
     }
 
 }
